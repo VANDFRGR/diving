@@ -32,6 +32,10 @@ main p {
    border: 5px solid #0C5AA6;
     margin:10px;
 }
+main ul {
+   border: 5px solid #0C5AA6;
+    margin:10px;
+}
 h1 {
 text-align: center;
 }
