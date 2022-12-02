@@ -39,6 +39,9 @@ main ul {
 main a {
    background-color:#60D5AC;
     margin:10px;
+    color: black;
+    text-decoration:none;
+    font-size:20px;
 }
 h1 {
 text-align: center;
